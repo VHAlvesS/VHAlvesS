@@ -1,16 +1,16 @@
-### Hi there 👋
+#Olá, me chamo Vitor e seja muito bem vindo ao meu perfil!🎈
 
-<!--
-**VHAlvesS/VHAlvesS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Utilizo computadores desde 2009, e em 2020 comecei a me interessar por webdesign e um pouco do mundo dev, e em 2022 decidi que iria entrar na área. Neste exato momento estou fortalecendo as minhas habilidades em html e css porque acho muito importante ter uma base forte!
 
-Here are some ideas to get you started:
+📚 Atualmente estou estudando: CSS - Webdesign responsivo.
+Muito em breve estarei estudando javascript e em seguida irei estudar react.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+#➡️Você pode também me encontrar em:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorhasantos/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitor_hugo_mb/?hl=pt-br)
+[Front-end Mentor] (https://www.frontendmentor.io/profile/VHAlvesS)
+
+
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
