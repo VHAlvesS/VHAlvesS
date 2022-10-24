@@ -1,6 +1,6 @@
 Olá, me chamo Vitor e seja muito bem vindo ao meu perfil!🎈
 
-Utilizo computadores desde 2009, e em 2020 comecei a me interessar por webdesign e um pouco do mundo dev, e em 2022 decidi que iria entrar na área. Neste exato momento estou fortalecendo as minhas habilidades em html e css porque acho muito importante ter uma base forte!
+Utilizo computadores desde 2009, e em 2020 comecei a me interessar por webdesign e um pouco do mundo dev, em 2022 decidi que iria entrar na área. Neste exato momento estou fortalecendo as minhas habilidades em html e css porque acho muito importante ter uma base forte!
 
 📚 Atualmente estou estudando: CSS - Webdesign responsivo.
 Muito em breve estarei estudando javascript e em seguida irei estudar react.
